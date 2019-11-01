@@ -3,6 +3,9 @@ img {
     max-width: 50%;
     height: auto;
 }
+strong{
+  font-size: 5em;
+}
 
 h1 {
     font-family: 'Lato', sans-serif;
