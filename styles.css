@@ -28,8 +28,9 @@ h1 {
 .mygrid {
   display: grid;
   width: 100%;
-  grid-template-rows: 100px 50px 1fr 50px;
+  grid-template-rows: 60px 60px 1fr 60px;
   grid-template-columns: 1fr 1fr;
+  grid-row-gap: 1ch;
   background-color: lavender
 }
 .navigation {
