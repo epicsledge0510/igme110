@@ -34,20 +34,24 @@ h1 {
   background-color: lavender
 }
 .navigation {
+  padding: 5px;
   grid-column: 1/4;
   grid-row: 1/2;
   background-color: #4CAF50;
 }
 .left {
+  padding: 20px;
   grid-column: 1/2;
   grid-row: 3/4;
 }
 .right {
+  padding: 20px;
   grid-column: 2/3;
   grid-row: 3/4;
   background-color: rgb(205, 205, 255)
 }
 .title{
+  padding: 20px;
   grid-column: 1/2;
   grid-row: 2/3;
   background-color: lavender
